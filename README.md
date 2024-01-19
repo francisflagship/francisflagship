@@ -10,7 +10,7 @@
 ```
 
 - 👀 I’m interested in AI, e-commerce, conversational-commerce, Japan, drifting
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning ThreeJS
 - 📫 How to reach me https://eatsleepcode.ninja
 
 <!---
